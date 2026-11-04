@@ -1,1 +1,0 @@
-print("Bună, sunt Luciana!")
